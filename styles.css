@@ -7,6 +7,7 @@
 	color: white;
 	text-align: center;
 	padding: 15px;
+	flex: center;
 }
 
 .articles{
@@ -47,9 +48,11 @@
 	background: white;
     width: 40%;
 	border-radius: .5rem;
+	flex: center;
 }
 .pictorial-news-section>h3{
 	text-align: center;
+	background: white;
 }
 .pictorial-news-section>img{
 	width: 400px;
